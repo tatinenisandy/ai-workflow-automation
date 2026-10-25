@@ -1,0 +1,6 @@
+customer_id,status,severity,follow_up_date,priority,recommended_action
+C001,Open,High,2026-10-22,High,Escalate to account owner
+C004,Open,Medium,2026-10-01,High,Escalate to account owner
+C002,Open,Low,2026-10-20,Medium,Contact customer and update case
+C005,Open,Low,2026-10-30,Low,Review on scheduled follow-up date
+C003,Resolved,High,2026-10-15,None,No action: resolved

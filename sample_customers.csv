@@ -1,0 +1,6 @@
+customer_id,status,severity,follow_up_date
+C001,Open,High,2026-10-22
+C002,Open,Low,2026-10-20
+C003,Resolved,High,2026-10-15
+C004,Open,Medium,2026-10-01
+C005,Open,Low,2026-10-30
